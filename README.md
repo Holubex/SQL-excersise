@@ -6,8 +6,11 @@ This repositary serves as an excersise for basic SQL skills.
 
 ## About SQL databases
 DDL file - contains all tables, 1 example of procedure and 1 trigger.
+
 Diagrams - graphical representation of tables and relations between them.
+
 Queries - contains some example queries for tables.
+
 Scripts - contains data inputs to the databases.
 
 # Before use WARNING 
