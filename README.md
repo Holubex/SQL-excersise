@@ -2,8 +2,7 @@
 
 This repositary serves as an excersise for basic SQL skills.
 
-![Cover image](SQL-excersise/izUN5vnD_400x400.jpg)
-![Cover image](SQL-excersise/izUN5vnD_400x400.jpg)
+![Cover image](izUN5vnD_400x400.jpg)
 
 ## About SQL databases
 DDL file - contains all tables, 1 example of procedure and 1 trigger.
