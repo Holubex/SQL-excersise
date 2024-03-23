@@ -1,0 +1,8 @@
+CREATE TABLE trainer (
+  id SMALLINT PRIMARY KEY NOT NULL,
+  name VARCHAR(100) NOT NULL,
+  subject VARCHAR(100) NOT NULL,
+  block VARCHAR(100) NOT NULL,
+  email VARCHAR(255) UNIQUE NOT NULL,
+  num_of_courses INT 
+  ) CHARACTER SET utf8mb4 COLLATE utf8mb4_czech_ci;
